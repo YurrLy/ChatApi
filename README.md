@@ -1,0 +1,1 @@
+# ChatApi utilizando tailwind
